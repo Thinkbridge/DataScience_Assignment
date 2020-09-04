@@ -9,4 +9,18 @@ Your stakeholders are the founders of the company who have several years of expe
 ## Your answer to Q.2 goes here
 
 **Q.3. You just received this email from your stakeholder. Write an email response.**
+From: Allan Kristian (allan@myclient.io)
+To: you@thinkbridge.in
+Subject: This sucks … nothing works on JIRA ticket MTS-1990
+Message:
+
+Here you go again. This ticket is marked ‘Ready for test’. But nothing works as it is supposed to. Do you have anyone who knows what they are doing? I cannot be wasting my time doing the testing for you. Have you heard of ‘testing’? My test results are documented on the ticket. Please review them and send me a version that works, in the next two days.
+
+Thanks
+Allan
 ## Your answer to Q.3 goes here
+
+**Q.4. Another engineer on your team has posted a question in a JIRA ticket as follows. Respond to her with your answer.**
+MTS-2203: Create a login screen to accept username and password along with all other requirements of a typical login screen
+Developer Comment: What are “all the other requirements”?
+## Your answer to Q.4 goes here
